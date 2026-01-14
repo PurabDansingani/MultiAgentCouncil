@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -9,6 +10,8 @@ env/
 venv/
 ENV/
 =======
+=======
+>>>>>>> 00f9e276c9fbb856d8b99a986af1a99f3c75d92c
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -19,7 +22,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+<<<<<<< HEAD
 >>>>>>> 0e7a9f2cafb4678b7d7e41800db281b3ce3c8634
+=======
+>>>>>>> 00f9e276c9fbb856d8b99a986af1a99f3c75d92c
 build/
 develop-eggs/
 dist/
@@ -32,6 +38,7 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
 <<<<<<< HEAD
 *.egg-info/
 .installed.cfg
@@ -62,6 +69,8 @@ Thumbs.db
 *.log
 
 =======
+=======
+>>>>>>> 00f9e276c9fbb856d8b99a986af1a99f3c75d92c
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -247,4 +256,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 >>>>>>> 0e7a9f2cafb4678b7d7e41800db281b3ce3c8634
+=======
+>>>>>>> 00f9e276c9fbb856d8b99a986af1a99f3c75d92c
